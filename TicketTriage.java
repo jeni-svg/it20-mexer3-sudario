@@ -14,7 +14,7 @@ class Ticket {
     }
 }
 
-public class Sudario {
+public class TicketTriage {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
